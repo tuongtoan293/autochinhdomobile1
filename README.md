@@ -1,2 +1,2 @@
 # autochinhdomobile1
-Active: yes
+Active: no
